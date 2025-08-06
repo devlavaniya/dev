@@ -1,3 +1,3 @@
 # dev
 
-I ama here in remote repo
+I am here in remote repo
